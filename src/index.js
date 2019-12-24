@@ -19,7 +19,7 @@ function App() {
         </div>
     </div>
     </Paper>
-<Paper style={{height : '650px' , backgroundColor : 'lightblue'}}>
+<Paper style={{height : '650px' }}>
 
 <Home/>
 
